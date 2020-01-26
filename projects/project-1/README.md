@@ -29,6 +29,7 @@ After completion, sentence might read :
 
 ## How to build the game. 
 I have provided you with starter code. 
+You can find it under `project-1/starter_code.txt`
 
 Condition : 
 * The game must have 3 levels with different difficulty. 
@@ -36,6 +37,8 @@ Condition :
 * User must have **10** attempts (_for each level_) to get the right answer, if not it should be a game over. 
     >As the user get the right answer, swap the blank space with the right answer to show the user their progress.
 
+## Rules : 
+**Do not copy someelse code. Make sure you do it by yourself. **
 
 ## TIPS
 > it will be wise to catch how the user types their inputs. 
@@ -46,3 +49,5 @@ Condition :
 
 + You have until midnight **FRIDAY** `24:00 Lisbon Time or 00.00`
 + Any submission after the aforementioned time won't be accepted.
+
+Please feel free to connect me for questions. 
