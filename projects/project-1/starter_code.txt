@@ -1,0 +1,15 @@
+# Basics of the project is for Game to have 3 or more level
+# Each level contains 4 or more blanks to fill in.
+
+# Fill in the blanks sentence. 
+first_sentence = "__1__, capital __2__ of Portugal is a __3__ in the euruopean __4__."
+second_sentence = "LinkedIn, is a __1__ __2__ platform based in the __3__ States at Silicon __4__ owned by Microsoft"
+
+# Answers you are expecting to be filled in / 
+# Or what you want to the user to guess. 
+first_answer = ["lisbon", "city", "country", "union"]
+second_answer = ["professional", "learning", "United", "Valley"]
+
+Feel free to come up with your own words. 
+Have fun 😀
+
